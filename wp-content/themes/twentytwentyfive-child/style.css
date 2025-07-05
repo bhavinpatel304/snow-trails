@@ -1,0 +1,39 @@
+/*
+ Theme Name:   Twenty Twenty-Five Child
+ Template:     twentytwentyfive
+ Version:      1.0.0
+*/
+
+/* You can add your custom CSS below */
+
+.trail-wrapper{
+    transform:scale(1,1) translate(0,0);
+    transform-origin:0 0;
+    width: 100%;
+    height: 100%;
+}
+.shape{
+    z-index: 2;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+.trail-poly {
+    fill: rgba(0, 0, 0, 0);
+    stroke: #000;
+    stroke-width: 3px;
+    stroke-dasharray: 0;
+    stroke-linecap: round;
+    opacity: 1;
+}
+.trail-poly:hover {
+    fill: rgba(236, 255, 220, 0.59);
+    stroke: rgba(255, 255, 255, 0.75);
+    stroke-width: 0px;
+    stroke-dasharray: 0;
+    stroke-linecap: round;
+    opacity: 1;
+}
+
