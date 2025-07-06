@@ -1,5 +1,5 @@
 <h2>Snow Trail Map</h2>
-<h4>Techstack : WordPress v6.8.1, mySQL, Bootstrap, Jquery, Custom plugin</h4>
+<h4>Techstack : WordPress v6.8.1, MySQL, Bootstrap, Jquery, Custom plugin</h4>
 
 <h5>Steps for installation</h5>
 <ul>
